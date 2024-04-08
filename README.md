@@ -1,4 +1,4 @@
-# Mediapipe Project
+# Detectar corpo humano
 
 Este projeto é um estudo sobre a biblioteca Mediapipe do Google, uma poderosa ferramenta para análise de mídia em tempo real.
 
