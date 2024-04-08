@@ -33,7 +33,3 @@ Certifique-se de seguir estas etapas na ordem correta para configurar e executar
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos recursos para este projeto. Basta abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
